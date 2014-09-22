@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MYO Lock</string>
+    <string name="hello_world">Welcome to MYO Lock</string>
+    <string name="password"></string>
+    <string name="train">Train</string>
+    <string name="scan">Scan</string>
+
+</resources>
