@@ -27,6 +27,10 @@ After the user correctly enters the current passcode, the lock spins open and th
 
 Team Members:
 Jackson Prange
+
 Zach Waterfield
+
 Donald Ngai
+
 Adam Seeto
+
